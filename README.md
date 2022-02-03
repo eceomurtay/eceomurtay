@@ -24,6 +24,6 @@ I'm B.Tech graduate in Computer Science and Engineering from AIACTR, GGSIPU, Del
 Prefers to work with 🌱: Python, C++, PyTorch, Tensorflow/Keras, NVIDIA DeepStream, Django
 Interests 🔭: stargazing, travelling, playing guitar, solving sudoku.
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceomurtay)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceomurtay)
 
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ece-omurtay/)  [<img src='https://cdn-icons-png.flaticon.com/512/5968/5968534.png' alt='gmail' height='40'>](mailto:ece.omurtay@gmail.com)  
