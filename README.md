@@ -19,3 +19,4 @@ I'm B.Tech graduate in Computer Science and Engineering from AIACTR, GGSIPU, Del
 Prefers to work with 🌱: Python, C++, PyTorch, Tensorflow/Keras, NVIDIA DeepStream, Django
 Interests 🔭: stargazing, travelling, playing guitar, solving sudoku.
 -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ece-omurtay/)  
