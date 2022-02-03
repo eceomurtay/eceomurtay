@@ -2,8 +2,7 @@
 
 ![hello](https://github.com/eceomurtay/eceomurtay/blob/main/hw.gif)
 
-I'm graduated from Hacettepe University Computer Science & Engineering. 
-⚡ I have experience in machine/deep learning, computer vision and web development. 
+I'm graduated from Hacettepe University Computer Science & Engineering. I have experience in machine/deep learning, computer vision and web development. ⚡
 
 
 <!--
