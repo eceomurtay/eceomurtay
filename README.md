@@ -1,6 +1,11 @@
 ### Hello ! I'm Ece 👋
 
 ![hello](https://github.com/eceomurtay/eceomurtay/blob/main/hw.gif)
+
+- ✨I'm graduated from Hacettepe University Computer Science & Engineering. 
+- ⚡ I have experience in machine/deep learning, computer vision and web development. 
+
+
 <!--
 **eceomurtay/eceomurtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
