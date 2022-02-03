@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello ! I'm Ece 👋
 
 <!--
 **eceomurtay/eceomurtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I'm currently solving Computer Vision problems at Vehant using deep learning.
+I'm B.Tech graduate in Computer Science and Engineering from AIACTR, GGSIPU, Delhi. My interests lie in solving machine learning and deep learning-based problems, preferably in the field of Computer Vision. I also have a keen interest in data science.
+Prefers to work with 🌱: Python, C++, PyTorch, Tensorflow/Keras, NVIDIA DeepStream, Django
+Interests 🔭: stargazing, travelling, playing guitar, solving sudoku.
 -->
