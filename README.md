@@ -1,6 +1,6 @@
 ### Hello ! I'm Ece 👋
 
-![hello](https://github.com/eceomurtay/eceomurtay/blob/main/ezgif.com-gif-maker.gif)
+![hello](https://github.com/eceomurtay/eceomurtay/blob/main/hw.gif)
 <!--
 **eceomurtay/eceomurtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
