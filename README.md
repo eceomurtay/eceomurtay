@@ -2,7 +2,7 @@
 
 ![hello](https://github.com/eceomurtay/eceomurtay/blob/main/hw.gif)
 
-<!-- I'm graduated from Hacettepe University Computer Science & Engineering. --> I have experience in machine/deep learning, computer vision and web development. ⚡
+I'm graduated from Hacettepe University Computer Science & Engineering. I have experience in machine/deep learning, computer vision and web development. ⚡
 
 
 <!--
@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-I'm currently solving Computer Vision problems at Vehant using deep learning.
-I'm B.Tech graduate in Computer Science and Engineering from AIACTR, GGSIPU, Delhi. My interests lie in solving machine learning and deep learning-based problems, preferably in the field of Computer Vision. I also have a keen interest in data science.
-Prefers to work with 🌱: Python, C++, PyTorch, Tensorflow/Keras, NVIDIA DeepStream, Django
-Interests 🔭: stargazing, travelling, playing guitar, solving sudoku.
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceomurtay)
 
